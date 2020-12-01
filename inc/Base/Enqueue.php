@@ -6,7 +6,7 @@
 *
 */
 
-namespace Bgs\Inc\Base;
+namespace Wr\Inc\Base;
 
 class Enqueue{
 

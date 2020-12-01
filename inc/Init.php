@@ -1,6 +1,6 @@
 <?php
 
-namespace Bgs\Inc;
+namespace Wrmm\Inc;
 
 final class Init{
 
@@ -8,7 +8,7 @@ final class Init{
 
         return [
             Base\Pages::class,
-            Base\Enqueue::class,
+          //  Base\Enqueue::class,
 
         ] ;
     }

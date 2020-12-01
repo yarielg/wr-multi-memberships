@@ -5,7 +5,7 @@
 * @package yariko
 *
 */
-namespace Bgs\Inc\Base;
+namespace Wrmm\Inc\Base;
 
 class Activate{
 
